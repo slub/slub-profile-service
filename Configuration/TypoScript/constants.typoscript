@@ -1,6 +1,7 @@
 @import 'EXT:fluid_styled_content/Configuration/TypoScript/constants.typoscript'
 @import 'EXT:slub_profile_account/Configuration/TypoScript/constants.typoscript'
 @import 'EXT:slub_profile_events/Configuration/TypoScript/constants.typoscript'
+@import 'EXT:slub_profile_messages/Configuration/TypoScript/constants.typoscript'
 
 styles.templates {
   templateRootPath = EXT:slub_profile_service/Resources/Private/Templates/FluidStyledContent/
