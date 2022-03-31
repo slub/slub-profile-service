@@ -1,8 +1,8 @@
 <?php
 
 $EM_CONF['slub_profile_service'] = [
-    'title' => 'SLUB web profile',
-    'description' => 'SLUB web profile extension for TYPO3',
+    'title' => 'SLUB profile service',
+    'description' => 'SLUB profile service extension for TYPO3',
     'category' => 'fe',
     'author' => 'Andreas Pfeiffer',
     'author_email' => 'andreas.pfeiffer@e-pixler.com',
