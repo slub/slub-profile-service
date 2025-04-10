@@ -16,15 +16,5 @@ Run the following command within your Composer based TYPO3 project:
 composer require slub/slub-profile-service
 ```
 
-## 2 Administration corner
-
-### 2.1 Release Management
-
-News uses [semantic versioning][2], which means, that
-* **bugfix updates** (e.g. 1.0.0 => 1.0.1) just includes small bugfixes or security relevant stuff without breaking changes,
-* **minor updates** (e.g. 1.0.0 => 1.1.0) includes new features and smaller tasks without breaking changes,
-* **major updates** (e.g. 1.0.0 => 2.0.0) breaking changes wich can be refactorings, features or bugfixes.
-
 [1]: https://getcomposer.org/
-[2]: https://semver.org/
 
